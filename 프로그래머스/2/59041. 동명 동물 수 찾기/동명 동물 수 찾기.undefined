@@ -1,0 +1,6 @@
+select `NAME`, count(*) as COUNT
+from `ANIMAL_INS`
+WHERE `NAME` IS NOT NULL
+GROUP BY `NAME`
+HAVING COUNT(*) >= 2 
+ORDER BY `NAME` asc;
