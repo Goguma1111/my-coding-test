@@ -1,0 +1,5 @@
+SELECT count(*) as FISH_COUNT, n.`FISH_NAME` 
+from `FISH_INFO` f
+join `FISH_NAME_INFO` n on f.`FISH_TYPE` = n.`FISH_TYPE`
+GROUP BY n.`FISH_NAME`
+ORDER BY FISH_COUNT desc
