@@ -1,10 +1,10 @@
 # [level 0] 배열 회전시키기 - 120844 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120844?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120844?language=go) 
 
 ### 성능 요약
 
-메모리: 10.1 MB, 시간: 0.00 ms
+메모리: 4.15 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 27일 12:55:39
+2025년 08월 19일 14:59:37
 
 ### 문제 설명
 
